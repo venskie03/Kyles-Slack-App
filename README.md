@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Kyles-Slack-App
-This is my First React App Project. Batch29
+BATCH29
+This is my First React App Project.
 Visit the Website Below to Preview this project ONLINE
 Link: https://reliable-starlight-6f9bc9.netlify.app/
 =======
