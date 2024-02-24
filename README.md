@@ -1,10 +1,14 @@
-<<<<<<< HEAD
 # Kyles-Slack-App
 BATCH29
 This is my First React App Project.
 Visit the Website Below to Preview this project ONLINE
+
+# NOTE
+Please use chrome to run this project
+#
 Link: https://reliable-starlight-6f9bc9.netlify.app/
-=======
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
